@@ -1,0 +1,5 @@
+Krakow Gdansk 600
+Krakow Warszawa 300
+Warszawa Gdansk 280
+Szczecin Gdansk 200
+Szczecin Krakow 800

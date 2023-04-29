@@ -1,0 +1,3 @@
+1. Krakow -> Warszawa -> Gdansk: 580
+2. Krakow -> Warszawa: 300
+3. Krakow -> Warszawa -> Gdansk -> Szczecin: 780
